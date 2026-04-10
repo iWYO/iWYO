@@ -8,7 +8,7 @@
 
 <h2>// About Me</h2>
 
-- 👨‍💻 Currently working as a **Banking Back-Office Administrator**  
+- 👨‍💻 Currently working as a **IT Support/Customer Service**  
 - 🤓 Aspiring **Full-Stack Developer** & **Indie Game Dev**  
 - 🎓 Pursuing a **BSC in Computer Science**
 
